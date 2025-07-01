@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Welcome+to+Summer's+GitHub+Profile!+👋;AI+%7C+Big+Data+%7C+Data+Science+%7C+Machine+Learning+%7C+PMP+%7C+BI">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+Welcome+to+Summer's+GitHub+Profile!+👋;AI+%7C+Data+Scientist+%7C+Machine+Learning+Engineer%7C+PMP+%7C+BI">
 </p>
 
 
