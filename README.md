@@ -1,9 +1,7 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+Welcome+to+Summer's+GitHub+Profile!+👋;AI+%7C+Data+Scientist+%7C+Machine+Learning+Engineer%7C+PMP+%7C+BI">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Welcome+to+Summer's+GitHub+Profile!+👋;AI+%7C+Big+Data+%7C+Data+Science+%7C+Machine+Learning+%7C+PMP+%7C+BI">
 </p>
-
-
 
 <td width="65%" valign="top">
 <h2>📌 Featured Projects</h2>
@@ -23,12 +21,12 @@
 
   <h2>🎓 Education</h2>
       <ul align="left">
-        <li>📚 <b>Master of Science in Information System Technology</b><br>
-          🎓 <b>George Washington University</b> 🇺🇸 <br>
+        <li> <b>Master of Science in Information System Technology</b><br>
+           <b>George Washington University</b> 🇺🇸 <br>
         </li>
         <br>
-        <li>📚 <b>Master of Science in Data Science</b><br>
-          🎓 <b>University of Pittsburgh</b> 🇺🇸 <br>
+        <li> <b>Master of Science in Data Science</b><br>
+           <b>University of Pittsburgh</b> 🇺🇸 <br>
         </li>
       </ul>
 
@@ -38,41 +36,16 @@
         <li>📌 <b>Certified Tableau Desktop Specialist</b> 📊</li>
         <li>📌 <b>Salesforce Administrator</b> ☁️</li>
         <li>📌 <b>Microsoft Certified: Azure Database Associate</b> 🔵</li>
+        <li>📌 <b>SAS: Advanced Programmer</b> 🔵</li>
       </ul>
-      <p align="left">
-        <img src="https://img.shields.io/badge/PMP-grey?style=for-the-badge&logo=pmipmp" alt="PMP">
-        <img src="https://img.shields.io/badge/Tableau-grey?style=for-the-badge&logo=tableau" alt="Tableau">
-        <img src="https://img.shields.io/badge/Salesforce-grey?style=for-the-badge&logo=salesforce" alt="Salesforce">
-        <img src="https://img.shields.io/badge/Azure-grey?style=for-the-badge&logo=microsoftazure" alt="Azure">
-      </p>
-<h2>👨‍💻 About Me</h2>
-      <ul align="left">
-        <li>💡 Passionate about <b>Data Science, AI, and Machine Learning</b></li>
-        <li>🌱 Currently learning <b>Decision Tree</b></li>
-        <li>🎯 Focused on building <b>Music Genre Classification</b></li>
-        <li>📫 Reach me at: <a href="mailto:mlingyi99@gmail.com">mlingyi99@gmail.com</a></li>
-      </ul>
-
-<br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=SummerMeng&show_icons=true&theme=cats" alt="GitHub Stats">
-      <br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SummerMeng&theme=cats" alt="Profile Summary">
-      <br><br>
       
-     
-  <h2>🌍 Connect With Me</h2>
-  <a href="https://www.linkedin.com/in/lingyi-summer-meng-pmp-053193103/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-
-
 
 <h2>💡 Fun Fact</h2>
       <blockquote>
         "Artificial Intelligence is the new electricity ⚡."
       </blockquote>
     </td>
-
+  </tr>
 
 <!-- Animated Footer -->
 <p align="center">
