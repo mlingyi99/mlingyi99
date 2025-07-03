@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Welcome+to+Summer's+GitHub+Profile!+👋;AI+%7C+Big+Data+%7C+Data+Science+%7C+Machine+Learning+%7C+PMP+%7C+BI">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Welcome+to+Summer's+GitHub+👋;Data+Scientist+%7C+Machine+Learning+Engineer%7C+PMP+%7C+BI">
 </p>
 
 <td width="65%" valign="top">
@@ -9,7 +9,16 @@
         <li>🔹 <b><a href="https://github.com/mlingyi99/RFM-Analysis">RFM Analysis</a></b> – User Profiling.</li>
         <li>🔹 <b><a href="https://github.com/your-username/project-2">Text Summarizer</a></b> – NLP-based summarization model.</li>
       </ul>
-
+<h2>🏢 Working Experience</h2>
+      <ul align="left">
+        <li> <b>Data Scientist</b><br>
+           <b>WSP</b> --Baltimore MD <2019-2022> <br>
+        </li>
+        <br>
+        <li> <b>University of Pittsburgh</b><br>
+           <b>University of Pittsburgh</b>Pittsburgh PA <2022-2025> <br>
+        </li>
+      </ul>
 <h2>🛠️ Tech Stack</h2>
       <p align="left">
         <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python">
