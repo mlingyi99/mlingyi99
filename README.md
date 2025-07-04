@@ -15,7 +15,7 @@
            <b>WSP</b> --Baltimore MD <2019-2022> <br>
         </li>
         <br>
-        <li> <b>University of Pittsburgh</b><br>
+        <li> <b>Senior Business Intelligence Analyst</b><br>
            <b>University of Pittsburgh</b>Pittsburgh PA <2022-2025> <br>
         </li>
       </ul>
