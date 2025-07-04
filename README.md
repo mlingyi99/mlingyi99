@@ -6,7 +6,7 @@
 <td width="65%" valign="top">
 <h2>📌 Featured Projects</h2>
       <ul>
-        <li>🔹 <b><a href="https://github.com/mlingyi99/RFM-Analysis">RFM Analysis</a></b> – User Profiling.</li>
+        <li>🔹 <b><a href="https://github.com/mlingyi99/RFM-Analysis">RFM Analysis</a></b> – Predict Customer Lifetime Value using Machine Learning in Python.</li>
         <li>🔹 <b><a href="https://github.com/your-username/project-2">Text Summarizer</a></b> – NLP-based summarization model.</li>
       </ul>
 <h2>🏢 Working Experience</h2>
