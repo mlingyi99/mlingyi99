@@ -48,7 +48,10 @@
         <li>📌 <b>SAS: Advanced Programmer</b> 🔵</li>
       </ul>
       
-
+<h2>🛠️ Medium Stories</h2>
+      <p align="left">
+        <li><b><a href="https://medium.com/@mlingyi99/predicting-titanic-survival-with-decision-trees-in-python-5d33eb847ebe#1fe6-b36677569990">Predicting Titanic Survival with Decision Trees in Python</a></b> </li>
+      </p>
 <h2>💡 Fun Fact</h2>
       <blockquote>
         "Artificial Intelligence is the new electricity ⚡."
