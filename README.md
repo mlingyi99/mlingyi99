@@ -51,6 +51,7 @@
 <h2>🛠️ Medium Stories</h2>
       <p align="left">
         <li><b><a href="https://medium.com/@mlingyi99/predicting-titanic-survival-with-decision-trees-in-python-5d33eb847ebe#1fe6-b36677569990">Predicting Titanic Survival with Decision Trees in Python</a></b> </li>
+        <li><b><a href="https://medium.com/@mlingyi99/how-to-validate-linear-regression-assumptions-in-python-11e8d53cbecf">How to Validate Linear Regression Assumptions in Python</a></b> </li>
       </p>
 <h2>💡 Fun Fact</h2>
       <blockquote>
