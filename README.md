@@ -37,7 +37,7 @@
         <li> <b>Master of Science in Data Science</b><br>
            <b>University of Pittsburgh</b> 🇺🇸 <br>
         </li>
-      </ul>
+       <br>
        <li> <b>Bachelor of Arts in Accounting</b><br>
            <b>University of Toledo</b> 🇺🇸 <br>
         </li>
