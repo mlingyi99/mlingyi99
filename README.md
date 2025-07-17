@@ -38,7 +38,10 @@
            <b>University of Pittsburgh</b> 🇺🇸 <br>
         </li>
       </ul>
-
+       <li> <b>Bachelor of Arts in Accounting</b><br>
+           <b>University of Toledo</b> 🇺🇸 <br>
+        </li>
+      </ul>
   <h2>📜 Professional Certifications</h2>
       <ul align="left">
         <li>📌 <b>Project Management Professional (PMP)</b> 🏆</li>
