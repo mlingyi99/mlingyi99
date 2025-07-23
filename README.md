@@ -7,7 +7,7 @@
 <h2>📌 Featured Projects</h2>
       <ul>
         <li>🔹 <b><a href="https://github.com/mlingyi99/RFM-Analysis">RFM Analysis</a></b> – Predict Customer Lifetime Value using Machine Learning in Python.</li>
-        <li>🔹 <b><a href="https://github.com/your-username/project-2">Text Summarizer</a></b> – NLP-based summarization model.</li>
+        <li>🔹 <b><a href="https://github.com/mlingyi99/mlproject">End To End ML Project</a></b> – From 0 to 1.</li>
       </ul>
 <h2>🏢 Working Experience</h2>
       <ul align="left">
