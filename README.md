@@ -50,7 +50,24 @@
         <li>📌 <b>Microsoft Certified: Azure Database Associate</b> 🔵</li>
         <li>📌 <b>SAS: Advanced Programmer</b> 🔵</li>
       </ul>
-      
+
+<h2>📜 My Leetcode</h2>
+
+<p align="left">
+  <a href="https://leetcode.com/mlingyi99">
+    <!-- Light-themed LeetCode badges with no border -->
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=mlingyi99&animated=true&theme=light&border=no-border" alt="LeetCode Badges"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/mlingyi99">
+    <img src="https://leetcard.jacoblin.cool/mlingyi99?theme=white&font=silkscreen" alt="LeetCode Stats Card"/>
+  </a>
+</p>
+
+
+
 <h2>🛠️ Medium Stories</h2>
       <p align="left">
         <li><b><a href="https://medium.com/@mlingyi99/predicting-titanic-survival-with-decision-trees-in-python-5d33eb847ebe#1fe6-b36677569990">Predicting Titanic Survival with Decision Trees in Python</a></b> </li>
