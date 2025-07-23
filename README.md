@@ -54,13 +54,6 @@
 <h2>📜 My Leetcode</h2>
 
 <p align="left">
-  <a href="https://leetcode.com/mlingyi99">
-    <!-- Light-themed LeetCode badges with no border -->
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=mlingyi99&animated=true&theme=light&border=no-border" alt="LeetCode Badges"/>
-  </a>
-</p>
-
-<p align="left">
   <a href="https://github.com/mlingyi99">
     <img src="https://leetcard.jacoblin.cool/mlingyi99?theme=white&font=silkscreen" alt="LeetCode Stats Card"/>
   </a>
