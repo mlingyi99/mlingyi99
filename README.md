@@ -8,7 +8,8 @@
       <ul>
         <li>🔹 <b><a href="https://github.com/mlingyi99/RFM-Analysis">RFM Analysis</a></b> – Predict Customer Lifetime Value using Machine Learning in Python.</li>
         <li>🔹 <b><a href="https://github.com/mlingyi99/MLProject-Student_Performance">ML Project-Student Performance</a></b> – End To End ML Project Including CI/CD on Elastic Beanstalk.</li>
-        <li>🔹 <b><a href="">End To End MLOPS Data Science Project</a></b> – from 0 to 1.</li>
+        <li>🔹 <b><a href="">Chicken Disease Classification</a></b>End To End MLOPS Deep Learning Project</li>
+        <li>🔹 <b><a href="">User Performance Retention</a></b>End To End MLOPS Deep Learning Project</li>
       </ul>
 <h2>🏢 Working Experience</h2>
       <ul align="left">
