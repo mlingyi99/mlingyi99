@@ -37,21 +37,20 @@
 
 
   <h2>🎓 Education</h2>
-      <ul align="left">
-
-        <li> <b>PhD in Data Science</b><br>
-           <b>University of Pittsburgh</b> 🇺🇸 <br>
-        </li>
-        <li> <b>Master of Science in Information System Technology</b><br>
-           <b>George Washington University</b> 🇺🇸 <br>
-        </li>
-        <br>
-        
-       <br>
-       <li> <b>Bachelor of Arts in Accounting</b><br>
-           <b>University of Toledo</b> 🇺🇸 <br>
-        </li>
-      </ul>
+<ul align="left">
+  <li>
+    <b>PhD in Data Science</b><br>
+    <b>University of Pittsburgh</b> 🇺🇸
+  </li>
+  <li>
+    <b>Master of Science in Information Systems Technology</b><br>
+    <b>George Washington University</b> 🇺🇸
+  </li>
+  <li>
+    <b>Bachelor of Arts in Accounting</b><br>
+    <b>University of Toledo</b> 🇺🇸
+  </li>
+</ul>
   <h2>📜 Professional Certifications</h2>
       <ul align="left">
         <li>📌 <b>Project Management Professional (PMP)</b> 🏆</li>
